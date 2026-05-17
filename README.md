@@ -10,6 +10,7 @@ Caso esses 3 números sejam iguais a "777", você ganha um "JackPot!".
 ### Tecnologias:
 
 **Python:** linguagem utilizada.
+
 **VS Code:** Motor utilizado.
 
 ---
