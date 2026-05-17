@@ -2,16 +2,15 @@
 
 ### Descrição:
 
-Um simples jogo que simula uma máquina de cassaníqueis com 3 numeros que são aleatóriamente sorteados por um botão.
+Um simples jogo que simula uma máquina de caça-níqueis com 3 números que são aleatoriamente sorteados por um botão.
 Caso esses 3 números sejam iguais a "777", você ganha um "JackPot!".
 
 ---
 
 ### Tecnologias:
 
-**Python:** linguagem utilizada.
-
-**VS Code:** Motor utilizado.
+* **Python:** Linguagem utilizada.
+* **VS Code:** Editor de código utilizado.
 
 ---
 
@@ -24,5 +23,5 @@ Caso esses 3 números sejam iguais a "777", você ganha um "JackPot!".
 
 ### O que eu aprendi:
 
-* **Tkinter:** Aprendizado das ferramentas do Tkinter
-* **Random:** Aprendizado das ferranentas do Random
+* **Tkinter:** Aprendizado das ferramentas do Tkinter.
+* **Random:** Aprendizado das ferramentas do Random.
