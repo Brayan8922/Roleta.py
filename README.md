@@ -23,5 +23,5 @@ Caso esses 3 números sejam iguais a "777", você ganha um "JackPot!".
 
 ### O que eu aprendi:
 
-**Tkinter:** Aprendizado das ferramentas do Tkinter
-**Random:** Aprendizado das ferranentas do Random
+* **Tkinter:** Aprendizado das ferramentas do Tkinter
+* **Random:** Aprendizado das ferranentas do Random
