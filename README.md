@@ -2,8 +2,8 @@
 
 ### Descrição:
 
-Um simples jogo que simula uma máquina de caça-níqueis com 3 números que são aleatoriamente sorteados por um botão.
-Caso esses 3 números sejam iguais a "777", você ganha um "JackPot!".
+Simulador de caça-níqueis desenvolvido em Python com interface gráfica em Tkinter e sistema de geração aleatória utilizando a biblioteca random.
+Projeto criado com foco no aprendizado de interfaces gráficas, manipulação de botões e lógica de sorteio aleatório.
 
 ---
 
@@ -23,5 +23,8 @@ Caso esses 3 números sejam iguais a "777", você ganha um "JackPot!".
 
 ### O que eu aprendi:
 
-* **Tkinter:** Aprendizado das ferramentas do Tkinter.
-* **Random:** Aprendizado das ferramentas do Random.
+* Criação de interfaces gráficas utilizando Tkinter
+* Manipulação de botões e eventos
+* Geração aleatória de números com a biblioteca random
+* Atualização dinâmica de textos na interface
+* Estruturas condicionais para sistema de vitória
