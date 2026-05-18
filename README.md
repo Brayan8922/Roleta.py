@@ -14,7 +14,7 @@ Projeto criado com foco no aprendizado de interfaces gráficas, manipulação de
 
 ---
 
-### Fotos:
+### Capturas de tela:
 
 <img width="245" height="139" alt="image" src="https://github.com/user-attachments/assets/ad0873db-967a-4c1c-b5ba-1cb79f3d1f1f" />
 <img width="245" height="139" alt="image" src="https://github.com/user-attachments/assets/9ab0942f-bce2-441b-875d-dad6f296d9fe" />
