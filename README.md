@@ -3,6 +3,7 @@
 ### Descrição:
 
 Simulador de caça-níqueis desenvolvido em Python com interface gráfica em Tkinter e sistema de geração aleatória utilizando a biblioteca random.
+
 Projeto criado com foco no aprendizado de interfaces gráficas, manipulação de botões e lógica de sorteio aleatório.
 
 ---
@@ -10,8 +11,8 @@ Projeto criado com foco no aprendizado de interfaces gráficas, manipulação de
 ### Tecnologias:
 
 * **Python:** Linguagem utilizada.
-* **VS Code:** Editor de código utilizado.
-
+* **Tkinter:** Biblioteca utilizada na criação da interface gráfica.
+* **Random:**  Biblioteca utilizada para a geração aleatória de números.
 ---
 
 ### Capturas de tela:
